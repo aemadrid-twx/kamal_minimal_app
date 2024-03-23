@@ -24,3 +24,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "kamal", "~> 1.4"
